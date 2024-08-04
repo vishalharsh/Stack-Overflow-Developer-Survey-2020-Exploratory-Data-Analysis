@@ -12,6 +12,17 @@ Perform Exploratory Data Analysis of Stack OverFlow Survey 2020 data using Pytho
 
 – Made report using Python Libraries (Numpy,Pandas,MatPlotLib and Seaborn)on JuyPter Notebook.
 
+
+## Description on the dataset:
+
+The enclosed data set is the full, cleaned results of the 2020 Stack Overflow Developer Survey. Free response submissions and personally identifying information have been removed from the results to protect the privacy of respondents. There are three files besides this README:
+
+1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
+2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
+3. so_survey_2020.pdf - PDF file of survey instrument
+
+
+
 ## Inferences and Conclusions¶
 
 We've drawn many inferences from the survey. Here's a summary of a few of them:
